@@ -5,8 +5,9 @@ Este proyecto tiene como objetivo aplicar modelos de aprendizaje automático sob
 
 ---
 
-## 📂 Estructura del Proyecto
+📁 **Estructura del Proyecto**
 
+```text
 TFG CODIGO/
 │
 ├── MEZCLA DE CODIGOS.ipynb         # Notebook principal con todo el flujo
@@ -16,4 +17,3 @@ TFG CODIGO/
 │   ├── ucec-rsem-fpkm-tcga.txt         # Útero sano
 │   ├── ucec-rsem-fpkm-tcga-t.txt       # Útero tumoral
 │   └── tsgoncogene.xlsx                # Genes asociados al cáncer
-
