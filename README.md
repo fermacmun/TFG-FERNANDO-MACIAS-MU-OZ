@@ -17,3 +17,16 @@ TFG CODIGO/
 │   ├── ucec-rsem-fpkm-tcga.txt         # Útero sano
 │   ├── ucec-rsem-fpkm-tcga-t.txt       # Útero tumoral
 │   └── tsgoncogene.xlsx                # Genes asociados al cáncer
+
+---
+
+## 🔧 Requisitos
+
+Para ejecutar correctamente este proyecto, necesitas tener instalado **Python 3.8 o superior** y las siguientes librerías:
+
+### Instalación rápida
+
+Puedes instalar todas las dependencias ejecutando:
+
+```bash
+pip install -r requirements.txt
