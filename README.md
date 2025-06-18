@@ -9,10 +9,11 @@ Este proyecto tiene como objetivo aplicar modelos de aprendizaje automático sob
 
 TFG CODIGO/
 │
-├── MEZCLA DE CODIGOS.ipynb # Notebook principal con todo el flujo
-├── data/ # Datos de expresión génica y genes relevantes
-│ ├── brca-rsem-fpkm-tcga.txt # Mama sano
-│ ├── brca-rsem-fpkm-tcga-t.txt # Mama tumoral
-│ ├── ucec-rsem-fpkm-tcga.txt # Útero sano
-│ ├── ucec-rsem-fpkm-tcga-t.txt # Útero tumoral
-│ └── tsgoncogene.xlsx # Genes asociados al cáncer
+├── MEZCLA DE CODIGOS.ipynb         # Notebook principal con todo el flujo
+├── data/                           # Datos de expresión génica y genes relevantes
+│   ├── brca-rsem-fpkm-tcga.txt         # Mama sano
+│   ├── brca-rsem-fpkm-tcga-t.txt       # Mama tumoral
+│   ├── ucec-rsem-fpkm-tcga.txt         # Útero sano
+│   ├── ucec-rsem-fpkm-tcga-t.txt       # Útero tumoral
+│   └── tsgoncogene.xlsx                # Genes asociados al cáncer
+
